@@ -1,4 +1,3 @@
-"""Real vs. AI Face Detector - CS6180 HW1 Part 8: a ten-round game."""
 import json
 import os
 import random
