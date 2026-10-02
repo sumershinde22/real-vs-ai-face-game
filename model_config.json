@@ -1,0 +1,9 @@
+{
+  "model_name": "MobileNet-FT",
+  "img_size": 128,
+  "input_scale": 255.0,
+  "val_accuracy": 0.7944444417953491,
+  "test_accuracy": 0.7666666666666667,
+  "test_auc": 0.8383111111111111,
+  "trained_on": "CS6180 HW1 real_and_AI dataset (1,200 train/val images)"
+}
